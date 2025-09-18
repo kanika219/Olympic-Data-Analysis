@@ -1,3 +1,6 @@
+# Streamlit Link
+http://localhost:8501/
+
 # Olympic Data Analysis
 
 An interactive web application for exploratory data analysis (EDA) of over a century of Olympic history. This project dives into trends in participation, performance, and progression across nations, sports, and athletes using Summer Olympic data.
