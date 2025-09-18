@@ -89,10 +89,6 @@ These datasets are typically sourced from public Olympic data repositories or Ka
 4. Push to the branch: `git push origin feature-name`
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Inspired by Olympic data analysis tutorials and Kaggle datasets.
