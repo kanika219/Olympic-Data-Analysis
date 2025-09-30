@@ -1,5 +1,5 @@
 # Streamlit Link
-http://localhost:8501/
+https://kanikaolympic.streamlit.app/
 
 # Olympic Data Analysis
 
